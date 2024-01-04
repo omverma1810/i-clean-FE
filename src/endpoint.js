@@ -1,0 +1,1 @@
+export const endpoint = "https://i-clean.tech/api/"

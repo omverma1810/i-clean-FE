@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "iClean",
+    "slug": "iclean",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "",
+      "resizeMode": "cover",
+      "backgroundColor": "#000"
+    },
+    "assetBundlePatterns": [
+      "*/"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.iclean.app"
+    },
+    "android": {
+      "package": "com.iclean.app",
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "",
+        "backgroundColor": "#ffffff"
+      },
+      "plugins": [
+        [
+          "expo-build-properties",
+          {
+            "android": {
+              "usesCleartextTraffic": true
+            }
+          }
+        ]
+      ]
+    },
+    "web": {
+      "favicon": ""
+    },
+    "extra": {
+      "eas": {
+        "projectId": "19858d45-80c3-4617-a074-f3e01e7b7764"
+      }
+    },
+    "owner": "mearshadaman"
+  }
+}

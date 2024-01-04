@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "805256825064",
+    "project_id": "madhuri-iclean",
+    "storage_bucket": "madhuri-iclean.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805256825064:android:70432b2caf596c8d17a15d",
+        "android_client_info": {
+          "package_name": "com.iclean.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSpMv4GHAwn7KXIoYpclsNPbZZWNm27Fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
